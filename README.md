@@ -14,3 +14,4 @@
 `pa0_gebrewold.pdf` _PA command output screenshots_
 
 `pa0_gebrewold.pdf` _PA command output screenshots_
+Implements a hierarchical directory structure and fully implements a Unix-like file system structure with a few instructions listed in the PDF file of documentation
