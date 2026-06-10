@@ -33,3 +33,6 @@ By allocating and deleting memory dynamically, the system maintains a growing co
 ### Future improvements
 - Add more useful commands
 - Add styles and terminal GUI
+
+### Installation
+- use `gcc -o filesystem pa0_gebrewold.c` to compile code and run it by typing `./filesystem` on WSL
